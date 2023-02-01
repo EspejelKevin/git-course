@@ -10,4 +10,10 @@ def main():
     print("I am learning Git")
 
 
+@decorator
+def task():
+    print("Creating a new message")
+
+
 main()
+task()
