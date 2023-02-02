@@ -15,7 +15,7 @@ def task():
     print("Creating a new message")
 
 
-
+@decorator
 def test():
     print("Learning branching")
 
