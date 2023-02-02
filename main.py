@@ -22,11 +22,8 @@ def test():
     print("Learning branching")
 
 
-<<<<<<< HEAD
 print("test2")
-=======
 print("task test 1 ...")
->>>>>>> task-test
 
 
 main()
