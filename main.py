@@ -21,6 +21,12 @@ def test():
     print("Learning branching")
 
 
+@decorator
+def index():
+    print("index")
+
+
 main()
 test()
 task()
+index()
