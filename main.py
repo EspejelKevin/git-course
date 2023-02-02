@@ -8,18 +8,6 @@ def decorator(main):
 @decorator
 def main():
     print("I am learning Git")
-
-
-@decorator
-def task():
-    print("Creating a new message")
-
-
-
-def test():
-    print("Learning branching")
-
+    
 
 main()
-test()
-task()
