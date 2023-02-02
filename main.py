@@ -20,12 +20,6 @@ def test():
     print("Learning branching")
 
 
-@decorator
-def test2():
-    print("Learning branching 2")
-
-
 main()
 test()
-test2()
 task()
