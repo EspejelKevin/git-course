@@ -21,6 +21,9 @@ def test():
     print("Learning branching")
 
 
+print("task test 1 ...")
+
+
 main()
 test()
 task()
