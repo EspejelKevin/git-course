@@ -11,6 +11,7 @@ def main():
     
 
 
+
 @decorator
 def task():
     print("Creating a new message")
@@ -19,6 +20,9 @@ def task():
 @decorator
 def test():
     print("Learning branching")
+
+
+print("test2")
 
 
 main()
