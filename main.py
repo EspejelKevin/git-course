@@ -22,7 +22,7 @@ def test():
 
 
 print("test2")
-
+print("another print from test-task2")
 
 main()
 test()
