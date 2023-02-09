@@ -24,6 +24,7 @@ def test():
 
 print("test2")
 print("task test 1 ...")
+print("task test 1 new print...")
 
 
 main()
