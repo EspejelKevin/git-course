@@ -27,6 +27,7 @@ print("task test 1 ...")
 print("task test 1 new print...")
 
 print("another print from test-task2")
+print("nooooooooooow with pull")
 
 main()
 test()
